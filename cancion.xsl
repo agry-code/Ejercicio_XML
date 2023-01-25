@@ -10,7 +10,7 @@
 			</body>
 		</html>
 	</xsl:template>
-	<xsl:template match="numero">
+	<xsl:template match="contador">
 		<h3>
 		
 		</h3>

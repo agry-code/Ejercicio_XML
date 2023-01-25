@@ -6,7 +6,7 @@
 	<letra>
 		<estrofa>
 			<tipo>normal</tipo>
-			<numero>Estrofa</numero>
+			<contador>Estrofa </contador>
 			<verso>La ambulancia suele llegar a casa y llevarse lo que más quiero (Ah)</verso>
 			<verso>El dinero nunca será tan fiel como el miedo (Ya)</verso>
 			<verso>Estas lágrimas duelen por los perdones que te debo</verso>
@@ -14,7 +14,7 @@
 		</estrofa>
 		<estrofa>
 			<tipo>normal</tipo>
-			<numero>Estrofa</numero>
+			<contador>Estrofa </contador>
 			<verso>Víctimas fashion vestidos de puñales</verso>
 			<verso>Las cicatrices contestan a las cosas que no sabes</verso>
 			<verso>Me encarcelarían más de quinientos años (Ya)</verso>
@@ -22,7 +22,7 @@
 		</estrofa>
 		<estrofa>
 			<tipo>normal</tipo>
-			<numero>Estrofa</numero>
+			<contador>Estrofa </contador>
 			<verso>Rézame toda la semana durmiendo a mi lado</verso>
 			<verso>Este nudo en el estomago me está mandando</verso>
 			<verso>Un mensaje que dice "José, no confíes demasiado"</verso>
@@ -32,7 +32,7 @@
 		</estrofa>
 			<estrofa>
 			<tipo>normal</tipo>
-			<numero>Estrofa</numero>
+			<contador>Estrofa </contador>
 			<verso>Al primero se llega siendo esclavo pero al segundo libremente</verso>
 			<verso>Le llevé por su cumpleaños mi disco a su tumba</verso>
 			<verso>Cada puñetazo que me han dado me ha quitado culpa</verso>

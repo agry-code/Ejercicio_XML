@@ -28,6 +28,6 @@
         </xs:complexType>
     </xs:element>
     <xs:element name="tipo" type="xs:NCName"/>
-    <xs:element name="numero" type="xs:integer"/>
+    <xs:element name="contador" type="xs:string"/>
     <xs:element name="verso" type="xs:string"/>
 </xs:schema>
