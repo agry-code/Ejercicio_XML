@@ -3,5 +3,5 @@ body {
 }
 h3::before {
   counter-increment: section;
-  content: "Esfrofa:" counter(section) ": ";
+  content: "Esfrofa" counter(section) ": ";
 }
