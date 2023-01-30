@@ -22,7 +22,7 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="tipo"/>
-                <xs:element ref="numero"/>
+                <xs:element ref="contador"/>
                 <xs:element maxOccurs="unbounded" ref="verso"/>
             </xs:sequence>
         </xs:complexType>
