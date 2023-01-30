@@ -11,8 +11,13 @@
 		</html>
 	</xsl:template>
 	<xsl:template match="contador">
-		<h3>
+		<h2>
 		
-		</h3>
+		</h2>
+	</xsl:template>
+	<xsl:template match="versos">
+		<p>
+		
+		</p>
 	</xsl:template>
 </xsl:stylesheet>

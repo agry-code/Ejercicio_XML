@@ -1,7 +1,7 @@
 body {
   counter-reset: section;
 }
-h3::before {
+h2::before {
   counter-increment: section;
-  content: "Esfrofa" counter(section) " : ";
+  content: "Esfrofa " counter(section) ": ";
 }
