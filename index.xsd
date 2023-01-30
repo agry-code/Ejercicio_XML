@@ -16,7 +16,7 @@
     <xs:element name="letra">
         <xs:complexType>
             <xs:sequence>
-                <xs:element maxOccurs="unbounded" ref="estrofa"/>
+                <xs:element ref="estrofa"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -24,7 +24,7 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="contador"/>
-                <xs:element maxOccurs="unbounded" ref="verso"/>
+                <xs:element ref="verso"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
