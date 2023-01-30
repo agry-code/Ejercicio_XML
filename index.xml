@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="cancion.xsl"?>
-<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cancion.xsd">
-	<titulo>Cuello de Gitano</titulo>
-	<autor>Dheforme Galinier</autor>
-	<letra>
-		<estrofa>
-			<tipo>normal</tipo>
-			<contador>Estrofa </contador>
-			<verso>La ambulancia suele llegar a casa y llevarse lo que más quiero (Ah)</verso>
-			<verso>El dinero nunca será tan fiel como el miedo (Ya)</verso>
-			<verso>Estas lágrimas duelen por los perdones que te debo</verso>
-			<verso>Todos los días son iguales: cárceles espirituales (Ah, ah)</verso>
-		</estrofa>
-		<estrofa>
-			<tipo>normal</tipo>
-			<contador>Estrofa </contador>
-			<verso>Víctimas fashion vestidos de puñales</verso>
-			<verso>Las cicatrices contestan a las cosas que no sabes</verso>
-			<verso>Me encarcelarían más de quinientos años (Ya)</verso>
-			<verso>Haciendo el amor como un crimen de segundo grado (Ah)</verso>
-		</estrofa>
-		<estrofa>
-			<tipo>normal</tipo>
-			<contador>Estrofa </contador>
-			<verso>Rézame toda la semana durmiendo a mi lado</verso>
-			<verso>Este nudo en el estomago me está mandando</verso>
-			<verso>Un mensaje que dice "José, no confíes demasiado"</verso>
-			<verso>Echo de menos tu miedo a perderme</verso>
-			<verso>Ser el centro de atención es duro porque no tienes tiempo para conocerte</verso>
-			<verso>No confundas destino con suerte</verso>
-		</estrofa>
-			<estrofa>
-			<tipo>normal</tipo>
-			<contador>Estrofa </contador>
-			<verso>Al primero se llega siendo esclavo pero al segundo libremente</verso>
-			<verso>Le llevé por su cumpleaños mi disco a su tumba</verso>
-			<verso>Cada puñetazo que me han dado me ha quitado culpa</verso>
-			<verso>Sólo los que estamos tristes comprendemos</verso>
-			<verso>Esa sonrisa que forzamos para evitar las preguntas, ya</verso>
-		</estrofa>
-	</letra>
-</cancion>
+	<?xml-stylesheet type="text/xsl" href="cancion.xsl"?>
+		<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd">
+			<titulo>Cuello de Gitano</titulo>
+				<letra>
+					<estrofa>
+						<contador>Estrofa </contador>
+						<verso>La ambulancia suele llegar a casa y llevarse lo que más quiero (Ah),</verso>
+						<verso>El dinero nunca será tan fiel como el miedo (Ya),</verso>
+						<verso>Estas lágrimas duelen por los perdones que te debo,</verso>
+						<verso>Todos los días son iguales: cárceles espirituales (Ah, ah),</verso>
+					</estrofa>
+					<estrofa>
+						<contador>Estrofa </contador>
+						<verso>Víctimas fashion vestidos de puñales,</verso>
+						<verso>Las cicatrices contestan a las cosas que no sabes,</verso>
+						<verso>Me encarcelarían más de quinientos años (Ya),</verso>
+						<verso>Haciendo el amor como un crimen de segundo grado (Ah),</verso>
+					</estrofa>
+					<estrofa>
+						<contador>Estrofa </contador>
+						<verso>Rézame toda la semana durmiendo a mi lado,</verso>
+						<verso>Este nudo en el estomago me está mandando,</verso>
+						<verso>Un mensaje que dice "José, no confíes demasiado",</verso>
+						<verso>Echo de menos tu miedo a perderme,</verso>
+						<verso>Ser el centro de atención es duro porque no tienes tiempo para conocerte,</verso>
+						<verso>No confundas destino con suerte,</verso>
+					</estrofa>
+						<estrofa>
+						<contador>Estrofa </contador>
+						<verso>Al primero se llega siendo esclavo pero al segundo libremente,</verso>
+						<verso>Le llevé por su cumpleaños mi disco a su tumba,</verso>
+						<verso>Cada puñetazo que me han dado me ha quitado culpa,</verso>
+						<verso>Sólo los que estamos tristes comprendemos,</verso>
+						<verso>Esa sonrisa que forzamos para evitar las preguntas, ya.</verso>
+					</estrofa>
+			</letra>
+					<autor>Dheforme Galinier</autor>
+						<tipo>Estilo: Rap</tipo>
+		</cancion>
