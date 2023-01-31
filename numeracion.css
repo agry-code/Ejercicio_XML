@@ -3,7 +3,14 @@ body {
 }
 h2::before {
   counter-increment: section;
-  content: "Esfrofa " counter(section) ": ";
+  content: "Estrofa " counter(section) ": ";
+}
+h2 {
+  counter-reset: sections;
+}
+p::before {
+  counter-increment: sections;
+  content: "Verso " counter(sections) ": ";
 }
 h3 {
   color: grey;
